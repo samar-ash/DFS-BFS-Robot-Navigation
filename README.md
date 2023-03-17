@@ -4,10 +4,15 @@ The program read a world description from standard input with a form like:
 
 
 4
+
 3
+
 @*__
+
 __#*
+
 __*#
+
 
 Inputs all have the format:
 1. The first line is the number of columns
